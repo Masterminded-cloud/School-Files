@@ -1,0 +1,64 @@
+Holiday Park,Ward 2,Spanish,English,French,Ukrainian,Cree,German
+North Park,Ward 1,Tagalog,Ukrainian,French,German,English
+Confederation Park,Ward 3,English,French,Spanish,Urdu,Tagalog
+Meadowgreen,Ward 2,Arabic,English,Sino-Tibetan languages,Tagalog,Ukrainian
+U of S Lands South Management Area,Ward 1,Hindi,Chinese,Mandarin,Arabic,English,Bengali
+Parkridge,Ward 3,Ukrainian,French,Tagalog,Semitic languages,Spanish,Arabic,English
+Arbor Creek,Ward 10,Semitic languages,Ukrainian,Chinese,Arabic,French,English
+Stonebridge,Ward 7,English,Urdu,French,German,Chinese
+Central Industrial,Ward 1,Gujarati,Telugu,Punjabi,English,Urdu
+Richmond Heights,Ward 1,Ukrainian,French,Russian,German,English
+Buena Vista,Ward 6,Spanish,English,German,French,Ukrainian
+City Park,Ward 1,French,Tagalog,Ukrainian,English,German
+Avalon,Ward 7,German,French,Ukrainian,English,Chinese
+Lawson Heights Suburban Centre,Ward 5,German,Ukrainian,French,Dutch,English
+University Heights Suburban Centre,Ward 10,Ukrainian,German,French,English,Semitic languages
+Wildwood,Ward 9,German,English,French,Chinese,Ukrainian
+Varsity View,Ward 6,English,Tagalog,Spanish,French,German,Chinese
+Massey Place,Ward 4,Urdu,English,Tagalog,Ukrainian,Spanish
+Montgomery Place,Ward 2,French,English,Spanish,German,Ukrainian
+Silverspring,Ward 10,French,Chinese,German,English,Ukrainian
+Eastview,Ward 7,English,French,German,Tagalog,Ukrainian
+Lawson Heights,Ward 5,German,Ukrainian,Tagalog,English,Gujarati
+Nutana,Ward 6,Ukrainian,German,French,English,Chinese
+Mayfair,Ward 1,English,Cree,Tagalog,German,French
+Willowgrove,Ward 10,Urdu,Ukrainian,English,Chinese,French
+Pacific Heights,Ward 3,English,Tagalog,Vietnamese,French,German
+Nutana Suburban Centre,Ward 9,French,Ukrainian,German,English,Urdu
+Westmount,Ward 2,French,Tagalog,Cree,English,Sino-Tibetan languages
+Central Business District,Ward 6,Tagalog,German,English,French,Ukrainian
+Fairhaven,Ward 3,Cree,English,French,Spanish,Tagalog,Ukrainian,German
+Lakeview,Ward 9,French,Chinese,Ukrainian,German,English
+Silverwood Heights,Ward 5,English,Tagalog,Ukrainian,German,French
+Airport Business Area,Ward 5,Cree,English
+Kelsey - Woodlawn,Ward 1,French,German,Cree,English,Tagalog
+Lakeridge,Ward 9,Cantonese,Chinese,English,French,Ukrainian
+King George,Ward 2,French,English,Ukrainian,German,Cree
+Dundonald,Ward 4,Spanish,German,Vietnamese,Tagalog,English
+Riversdale,Ward 2,Cree,Cantonese,Mandarin,Chinese,English
+Caswell Hill,Ward 2,English,Cree,French,German,Tagalog
+Lakewood Suburban Centre,Ward 9,Chinese,Mandarin,Arabic,Urdu,English
+Sutherland,Ward 1,English,Ukrainian,Arabic,Urdu,German,French
+Brevoort Park,Ward 8,Ukrainian,French,Chinese,Tagalog,English
+Exhibition,Ward 7,Spanish,English,Ukrainian,Bengali,French,German
+College Park East,Ward 8,Urdu,French,German,English,Tagalog
+Westview,Ward 4,English,Tagalog,Cree,Ukrainian,German
+Nutana Park,Ward 7,French,Ukrainian,Chinese,German,English
+Holliston,Ward 6,Ukrainian,Tagalog,Chinese,English,German
+Haultain,Ward 6,French,Tagalog,German,Ukrainian,English
+College Park,Ward 8,Ukrainian,Chinese,English,Urdu,Tagalog
+Queen Elizabeth,Ward 7,German,French,Ukrainian,Spanish,English
+Hampton Village,Ward 4,Punjabi,Tagalog,Urdu,Spanish,English
+Rosewood,Ward 9,Hindi,Chinese,Korean,Urdu,English,Mandarin
+Erindale,Ward 10,Chinese,Ukrainian,French,Arabic,English
+Confederation Suburban Centre,Ward 3,Cree,Tagalog,Urdu,French,English,Spanish
+Pleasant Hill,Ward 2,Cree,Tagalog,Bengali,Ukrainian,English
+Adelaide/Churchill,Ward 7,Ukrainian,German,Tagalog,French,English
+Mount Royal,Ward 4,Spanish,English,Tagalog,Ukrainian,German
+Forest Grove,Ward 1,French,Arabic,Ukrainian,English,German
+Hudson Bay Park,Ward 1,Ukrainian,French,English,German,Tagalog
+River Heights,Ward 5,German,French,Ukrainian,English,Tagalog
+The Willows,Ward 7,English,Chinese,German
+Grosvenor Park,Ward 6,French,English,German,Ukrainian,Chinese,Mandarin,Arabic
+Greystone Heights,Ward 8,English,German,Chinese,French,Urdu
+Briarwood,Ward 8,Semitic languages,Chinese,Cantonese,Ukrainian,English

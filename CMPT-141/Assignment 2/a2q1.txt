@@ -1,0 +1,12 @@
+(a) Parameters: line 1: num_coffee, price_coffee, discount and line 15: cost
+(b) Arguments: line 25: 1, 2.00, 0 and line 28: 3, 3.25, 2.00 and line 31: 7, 2.75, 5.00
+and line 11: total_before_tax
+(c) Variables: total_before_tax, total_after_tax, total_after_discount, total,
+customer1, customer2, customer3
+(d) The scope of:
+i. total_after_tax is the function calculate_coffee
+ii. cost is the function add_tax
+iii. customer2 is global; it is accessible from all parts of the program.
+(e) There are 2 function denitions: calculate_coffee and add_tax.
+(f) There are 4 function calls: line 11 to add_tax and lines 27, 30, and 33 to calculate_coffee.
+(g) customer1 refers to the value 2.14.

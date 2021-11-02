@@ -1,0 +1,4 @@
+(a) There is 1 input. The fact that a set could contain many numbers does not matter; the input is a
+single SET of numbers.
+(b) There is 1 output, consisting of a single numeric value.
+(c) Calculating the pass-rate of a class

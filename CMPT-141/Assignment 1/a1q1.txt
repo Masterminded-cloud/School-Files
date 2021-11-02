@@ -1,0 +1,19 @@
+(a) This is a violation. The policy forbids copying another student’s work. In this situation, both parties
+violated the policy.
+(b) This is a violation. The policy forbids copying another student’s work, with or without their knowledge,
+however, in this situation, only the person doing the copying violated the policy.
+(c) This is a violation. These students worked together to produce a single solution which they all
+copied. This amounts to working as a group, which is not permitted unless explicitly allowed by
+the instructor.
+(d) This is a violation. Misty helped Brock to such an extent that the work that Brock handed in was
+not his own. Both Misty and Brock are in violation of the policy here.
+(e) This is not a violation. Jessie and James did not substantially contribute to Meowth’s solution but
+merely helped him past a roadblock. In general helping someone x an error in their program
+when they get stuck is ne, as long as you are not helping them re-write more than a few lines of
+their program. The policy explicitly allows students to seek assistance in xing small errors from
+fellow students.
+(f) This is not a violation. Mewtwo and Lucario did not exchange any recorded information. They
+came up with a solution together but destroyed their collaborative work. Since they were both
+able to re-create their solutions on their own, their solutions are their own work. They are not
+in danger of getting accused of copying because their re-created solutions would not resemble
+each other closely enough.

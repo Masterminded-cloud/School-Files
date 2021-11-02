@@ -1,0 +1,13 @@
+Algorithm WashClothes :
+
+turn on sink tap
+put dish soap in sink
+turn off sink tap
+
+put dishes into filled sink
+scrub each dish with a washcloth
+remove dishes from sink
+
+find a dry hand towel
+dry clean dishes with towel
+put dishes away in cupboard
